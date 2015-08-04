@@ -4,4 +4,4 @@ reverse=''
 for i in seq:
    reverse+=seq[x]
    x-=1
-print reverse
+print "The reverse string of %s >>>>is>>>> %s" %(seq,reverse)
